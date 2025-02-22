@@ -1,0 +1,15 @@
+model,model size
+minicpm-v-v2-chat,2.8B
+phi3-vision-128k-instruct,4.2B
+yi-vl-6b-chat,6B
+qwen-vl-chat,7B
+deepseek-vl-7b-chat,7B
+llava1_6-mistral-7b-instruct,7B
+minicpm-v-v2_5-chat,8.5B
+glm4v-9b-chat,9B
+cogvlm2-19b-chat,19B
+internvl-chat-v1_5,26B
+llava1_6-yi-34b-instruct,34B
+yi-vl-34b-chat,34B
+
+

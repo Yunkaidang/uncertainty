@@ -1,0 +1,13 @@
+model,model size,all,T-F,F-T
+minicpm-v-v2-chat,2.8B,76.63%,54.75%,83.61%
+phi3-vision-128k-instruct,4.2B,74.9%,49.36%,66.41%
+yi-vl-6b-chat,6B,66.09%,83.77%,83.62%
+qwen-vl-chat,7B,64.94%,80.24%,80.87%
+deepseek-vl-7b-chat,7B,76.82%,29.18%,64.46%
+llava1_6-mistral-7b-instruct,7B,49.43%,52.71%,60.61%
+minicpm-v-v2_5-chat,8.5B,78.35%,43.77%,42.48%
+glm4v-9b-chat,9B,88.12%,18.26%,58.06%
+cogvlm2-19b-chat,19B,87.36%,16.45%,54.55%
+internvl-chat-v1_5,26B,88.89%,16.59%,44.83%
+llava1_6-yi-34b-instruct,34B,75.67%,64.56%,88.19%
+yi-vl-34b-chat,34B,69.92%,55.89%,77.07%
