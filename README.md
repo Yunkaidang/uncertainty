@@ -101,9 +101,9 @@ Results are saved in:
 If you use this work, please cite:
 
 ```bibtex
-@article{yourpaper2024,
-  title={Exploring Response Uncertainty in MLLMs: An Empirical Evaluation Under Misleading Scenarios},
-  author={Authors' Names},
+@article{dang2024exploring,
+  title={Exploring response uncertainty in mllms: An empirical evaluation under misleading scenarios},
+  author={Dang, Yunkai and Gao, Mengxi and Yan, Yibo and Zou, Xin and Gu, Yanggan and Liu, Aiwei and Hu, Xuming},
   journal={arXiv preprint arXiv:2411.02708},
   year={2024}
 }
