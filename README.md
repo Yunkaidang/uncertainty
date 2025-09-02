@@ -17,13 +17,13 @@ We reveal a **response uncertainty** phenomenon: across **nine** datasets, **twe
 * **Two-stage evaluation + MUB.** We propose a two-stage misleading-instruction evaluation and the **misleading rate** metric, then curate the **Multimodal Uncertainty Benchmark (MUB)**—image–question pairs stratified into **low / medium / high** difficulty by how many of twelve MLLMs they mislead.
 * **High uncertainty & robustness gains.** On **12 open-source + 5 closed-source** models, average misleading rates **exceed 86%** (**67.19% explicit**, **80.67% implicit**). A **2,000-sample mixed-instruction** fine-tuning reduces misleading to **6.97% (explicit)** and **32.77% (implicit)**, improves **consistency by ~29.37%**, and slightly improves accuracy on standard benchmarks.
 
-![Pipeline](assets/main.png)
+![Pipeline](asset/main.png)
 
-![Results Overview](assets/mainresult.png)
+![Results Overview](asset/mainresult.png)
 
-![Explicit vs. Implicit Cases](assets/mainresult2.png)
+![Explicit vs. Implicit Cases](asset/mainresult2.png)
 
-![Visual](assets/visual.png)
+![Visual](asset/visual.png)
 
 
 ---
