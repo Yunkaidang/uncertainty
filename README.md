@@ -9,13 +9,16 @@
 </p>
 
 ---
+[2025/08/21] 🎉🎉🎉 Our work has been accepted to EMNLP 2025 Main! 
+
+---
 ### 📌 Key Features
 - 🔍 **Evaluation of MLLMs under misleading inputs**
 - 📊 **Uncertainty quantification metrics**
 - 🎯 **Explicit & Implicit misleading experiments**
 - 🔬 **Comprehensive model comparison**
 - 📝 **Reproducible results and visualization**
-
+- 
 ---
 
 ### ⚙️ Environment Installation
